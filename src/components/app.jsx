@@ -34,10 +34,10 @@ class App extends Component {
   }
 
 
-// const gifs = [
-    //   { id: "xT9IgDEI1iZyb2wqo8" },
-    //   { id: "8myX83XXYnaQUsp32F" }
-    // ];
+  // const gifs = [
+  //   { id: "xT9IgDEI1iZyb2wqo8" },
+  //   { id: "8myX83XXYnaQUsp32F" }
+  // ];
 
   render() {
     return (
