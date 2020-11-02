@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import '../assets/stylesheets/application.scss';
+import '/Users/timothyangus/code/TimAngus321/personal-projects/react-gifs/src/assets/stylesheets/application.scss';
 import App from './components/app.jsx';
 
 const root = document.getElementById('root');
