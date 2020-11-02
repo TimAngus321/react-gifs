@@ -1,4 +1,4 @@
 # React-Gifs
 
-<h1> Basic app for seaching for gifs using React.js </h1>
-</p> *In Development - needs to be deployed* </p>
+<h1> React app for seaching for gifs via the giphy API </h1>
+</p><a href='https://timangus321.github.io/react-gifs/' target="_blank" rel="noopener noreferrer"> Take a look here </a></p>
