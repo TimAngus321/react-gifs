@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import giphy from "giphy-api";
-
 import SearchBar from './search_bar.jsx';
 import Gif from './gif.jsx';
 import GifList from './gif_list.jsx';
@@ -23,7 +22,7 @@ class App extends Component {
       q: query,
       rating: 'g',
       limit: 10
-    }, (error, result) => {
+    }, (Error, result) => {
       this.setState({
         gifs: result.data
       });
@@ -35,12 +34,6 @@ class App extends Component {
       selectedGifId: id
     });
   }
-
-
-  // const gifs = [
-  //   { id: "xT9IgDEI1iZyb2wqo8" },
-  //   { id: "8myX83XXYnaQUsp32F" }
-  // ];
 
   render() {
     return (
